@@ -3,4 +3,5 @@
 
 |Rank|Name|AUC|
 |----|-----|---|
-|1|cooperstein_v1|0.696747244391| 
+|1|dsalerno_v0|0.72927243432| 
+|2|cooperstein_v1|0.69668990135| 
