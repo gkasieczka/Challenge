@@ -12,5 +12,6 @@
 |7|Feldhusen_Essbach_v2|0.8585| 
 |8|Feldhusen_Essbach_v1|0.8503| 
 |9|test_v2|0.8227| 
-|10|result_v1|0.5007| 
-|11|result_v2|0.5007| 
+|10|result_v3|0.8224| 
+|11|result_v1|0.5007| 
+|12|result_v2|0.5007| 
