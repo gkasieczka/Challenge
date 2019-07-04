@@ -24,8 +24,8 @@
 |19|test_v2|0.8227| 
 |20|result_v3|0.8224| 
 |21|Teutloff_Schaefer_v2|0.822| 
-|22|result|0.747| 
-|23|Teutloff_Schaefer_v1|0.747| 
+|22|Teutloff_Schaefer_v1|0.747| 
+|23|result|0.747| 
 |24|Feldhusen_Essbach_v3|0.7461| 
 |25|result_v1|0.5007| 
 |26|result_v2|0.5007| 
