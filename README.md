@@ -58,6 +58,5 @@
 |53|result|0.747| 
 |54|Teutloff_Schaefer_v1|0.747| 
 |55|Feldhusen_Essbach_v3|0.7461| 
-|56|Kasselmann_V5|0.7129| 
-|57|result_v1|0.5007| 
-|58|result_v2|0.5007| 
+|56|result_v1|0.5007| 
+|57|result_v2|0.5007| 
