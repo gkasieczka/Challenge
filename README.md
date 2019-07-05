@@ -49,8 +49,8 @@
 |44|Teutloff_Schaefer_v2|0.822| 
 |45|JACOBSEN_v2|0.7628| 
 |46|Paulsen_Tippel_v4|0.7534| 
-|47|result|0.747| 
-|48|Teutloff_Schaefer_v1|0.747| 
+|47|Teutloff_Schaefer_v1|0.747| 
+|48|result|0.747| 
 |49|Feldhusen_Essbach_v3|0.7461| 
 |50|result_v1|0.5007| 
 |51|result_v2|0.5007| 
