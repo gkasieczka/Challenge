@@ -20,8 +20,8 @@
 |15|Campello_Reimers_v1|0.8864| 
 |16|test_test|0.886| 
 |17|joens_meschede_v2|0.8859| 
-|18|Sominka_v2|0.8851| 
-|19|Eggers_Ha_v3|0.8851| 
+|18|Eggers_Ha_v3|0.8851| 
+|19|Sominka_v2|0.8851| 
 |20|Sominka_v1|0.8845| 
 |21|JACOBSEN_v6|0.8837| 
 |22|harder_phielepeit_v90|0.8829| 
@@ -62,8 +62,8 @@
 |57|Paulsen_Tippel_v5|0.816| 
 |58|JACOBSEN_v2|0.7628| 
 |59|Paulsen_Tippel_v4|0.7534| 
-|60|result|0.747| 
-|61|Teutloff_Schaefer_v1|0.747| 
+|60|Teutloff_Schaefer_v1|0.747| 
+|61|result|0.747| 
 |62|Feldhusen_Essbach_v3|0.7461| 
 |63|Hoffmann_v1|0.6815| 
 |64|result_v1|0.5007| 
