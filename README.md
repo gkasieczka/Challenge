@@ -85,3 +85,4 @@
 |80|Hoffmann_v1|0.6815| 
 |81|result_v1|0.5007| 
 |82|result_v2|0.5007| 
+|83|Gerisch_v1|0.4762| 
