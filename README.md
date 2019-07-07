@@ -9,8 +9,8 @@
 |4|Joedicke_v6|0.8995| 
 |5|Matthies_v2|0.8982| 
 |6|Gosewisch_Kafke_v1|0.8981| 
-|7|Joedicke_v5|0.8967| 
-|8|Gosewisch_Kafke_v2|0.8967| 
+|7|Gosewisch_Kafke_v2|0.8967| 
+|8|Joedicke_v5|0.8967| 
 |9|Gosewisch_Kafke_v3|0.896| 
 |10|groene_v4|0.8958| 
 |11|Joedicke_v3|0.8945| 
@@ -29,8 +29,8 @@
 |24|Campello_Reimers_v1|0.8864| 
 |25|test_test|0.886| 
 |26|joens_meschede_v2|0.8859| 
-|27|Sominka_v2|0.8851| 
-|28|Eggers_Ha_v3|0.8851| 
+|27|Eggers_Ha_v3|0.8851| 
+|28|Sominka_v2|0.8851| 
 |29|Sominka_v1|0.8845| 
 |30|JACOBSEN_v6|0.8837| 
 |31|Hoffmann_v3|0.8833| 
@@ -42,8 +42,8 @@
 |37|Abel_v3|0.8793| 
 |38|Joedicke_v1|0.8783| 
 |39|Bremer_Sievers|0.8771| 
-|40|Werther_Wolf_v3|0.8762| 
-|41|Werther_Wolf_v5|0.8762| 
+|40|Werther_Wolf_v5|0.8762| 
+|41|Werther_Wolf_v3|0.8762| 
 |42|JACOBSEN_v7|0.876| 
 |43|Teutloff_Schaefer_v3|0.8758| 
 |44|Hoffmann_v2|0.8748| 
@@ -78,8 +78,8 @@
 |73|Teutloff_Schaefer_v2|0.822| 
 |74|Paulsen_Tippel_v5|0.816| 
 |75|Paulsen_Tippel_v4|0.7534| 
-|76|result|0.747| 
-|77|Teutloff_Schaefer_v1|0.747| 
+|76|Teutloff_Schaefer_v1|0.747| 
+|77|result|0.747| 
 |78|Feldhusen_Essbach_v3|0.7461| 
 |79|Hoffmann_v1|0.6815| 
 |80|result_v1|0.5007| 
