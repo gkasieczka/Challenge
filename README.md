@@ -10,8 +10,8 @@
 |5|Joedicke_v6|0.8995| 
 |6|Matthies_v2|0.8982| 
 |7|Gosewisch_Kafke_v1|0.8981| 
-|8|Joedicke_v5|0.8967| 
-|9|Gosewisch_Kafke_v2|0.8967| 
+|8|Gosewisch_Kafke_v2|0.8967| 
+|9|Joedicke_v5|0.8967| 
 |10|lemke_v1|0.8961| 
 |11|Gosewisch_Kafke_v3|0.896| 
 |12|groene_v4|0.8958| 
@@ -36,8 +36,8 @@
 |31|test_test|0.886| 
 |32|joens_meschede_v2|0.8859| 
 |33|meine_reim_v2|0.8857| 
-|34|Sominka_v2|0.8851| 
-|35|Eggers_Ha_v3|0.8851| 
+|34|Eggers_Ha_v3|0.8851| 
+|35|Sominka_v2|0.8851| 
 |36|Sominka_v1|0.8845| 
 |37|JACOBSEN_v6|0.8837| 
 |38|meine_reim_v3|0.8834| 
@@ -50,8 +50,8 @@
 |45|Abel_v3|0.8793| 
 |46|Joedicke_v1|0.8783| 
 |47|Bremer_Sievers|0.8771| 
-|48|Werther_Wolf_v3|0.8762| 
-|49|Werther_Wolf_v5|0.8762| 
+|48|Werther_Wolf_v5|0.8762| 
+|49|Werther_Wolf_v3|0.8762| 
 |50|JACOBSEN_v7|0.876| 
 |51|Teutloff_Schaefer_v3|0.8758| 
 |52|Hoffmann_v2|0.8748| 
@@ -88,8 +88,8 @@
 |83|meine_reim_v1|0.8079| 
 |84|Janssen_v1|0.793| 
 |85|Paulsen_Tippel_v4|0.7534| 
-|86|result|0.747| 
-|87|Teutloff_Schaefer_v1|0.747| 
+|86|Teutloff_Schaefer_v1|0.747| 
+|87|result|0.747| 
 |88|Feldhusen_Essbach_v3|0.7461| 
 |89|Hoffmann_v1|0.6815| 
 |90|Janik_Gomezv1|0.5513| 
