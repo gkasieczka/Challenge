@@ -92,6 +92,7 @@
 |87|Teutloff_Schaefer_v1|0.747| 
 |88|Feldhusen_Essbach_v3|0.7461| 
 |89|Hoffmann_v1|0.6815| 
-|90|result_v1|0.5007| 
-|91|result_v2|0.5007| 
-|92|Gerisch_v1|0.4762| 
+|90|Janik_Gomezv1|0.5513| 
+|91|result_v1|0.5007| 
+|92|result_v2|0.5007| 
+|93|Gerisch_v1|0.4762| 
