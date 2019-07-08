@@ -118,9 +118,10 @@
 |113|result|0.747| 
 |114|Teutloff_Schaefer_v1|0.747| 
 |115|Feldhusen_Essbach_v3|0.7461| 
-|116|Hoffmann_v1|0.6815| 
-|117|janik_gomez_v2|0.5513| 
-|118|Janik_Gomezv1|0.5513| 
-|119|result_v1|0.5007| 
-|120|result_v2|0.5007| 
-|121|Gerisch_v1|0.4762| 
+|116|Emmrich_v5|0.6955| 
+|117|Hoffmann_v1|0.6815| 
+|118|janik_gomez_v2|0.5513| 
+|119|Janik_Gomezv1|0.5513| 
+|120|result_v1|0.5007| 
+|121|result_v2|0.5007| 
+|122|Gerisch_v1|0.4762| 
