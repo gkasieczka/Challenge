@@ -4,4 +4,4 @@
 
 |Rank|Name|Accuracy|
 |----|-----|---|
-|1|Kasieczka_Gregor_v0|0.707699999999414|
+|1|Kasieczka_Gregor_v1|0.707699999999414|
