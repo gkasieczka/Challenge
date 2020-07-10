@@ -47,4 +47,3 @@
 |41|Wohlstein_Moritz_v2|0.499720000000359|
 |42|Wohlstein_Moritz_v4|0.49957000000035884|
 |43|Wohlstein_Moritz_v3|0.49956000000035883|
-|44|Quinton,Finleyv2|-1|
