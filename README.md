@@ -29,3 +29,4 @@
 |23|Warda_Lonnika_v1|0.5707500000000373|
 |24|Wohlstein_Moritz_v1|0.49990000000035917|
 |25|Wohlstein_Moritz_v2|0.499720000000359|
+|26|Wohlstein_Moritz_v3|0.49956000000035883|
