@@ -7,8 +7,8 @@
 |1|Mueller_Nils_v1|0.7998899999989945|
 |2|Stuebling_Nils_v2|0.7980799999990027|
 |3|Stuebling_Nils_v4|0.7970999999990072|
-|4|Stuebling_Nils_v7|0.7964299999990102|
-|5|Niemann_Caius_v4|0.7964299999990102|
+|4|Niemann_Caius_v4|0.7964299999990102|
+|5|Stuebling_Nils_v7|0.7964299999990102|
 |6|Stuebling_Nils_v9|0.7962099999990112|
 |7|Stuebling_Nils_v8|0.7959399999990124|
 |8|Niemann_Caius_v3|0.7950799999990164|
