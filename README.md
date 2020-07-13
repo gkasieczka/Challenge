@@ -101,4 +101,5 @@
 |95|Wohlstein_Moritz_v2|0.499720000000359|
 |96|Wohlstein_Moritz_v4|0.49957000000035884|
 |97|Wohlstein_Moritz_v3|0.49956000000035883|
-|98|Brunnert_Lucas_v5|1e-05|
+|98|Kebbel_Joshua_v1|0.49907000000035834|
+|99|Brunnert_Lucas_v5|1e-05|
