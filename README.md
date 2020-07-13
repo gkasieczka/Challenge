@@ -85,3 +85,4 @@
 |79|Wohlstein_Moritz_v2|0.499720000000359|
 |80|Wohlstein_Moritz_v4|0.49957000000035884|
 |81|Wohlstein_Moritz_v3|0.49956000000035883|
+|82|Brunnert_Lucas_v5|1e-05|
