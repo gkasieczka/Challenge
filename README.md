@@ -4,5 +4,4 @@
 
 |Rank|Name|Accuracy|
 |----|-----|---|
-|1|Quinton_Finley_v1|0.7352999999992884|
-|2|Brunnert_Lucas_v1|0.7257599999993318|
+|1|test_v99|0.6025999999998923|
