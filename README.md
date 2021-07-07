@@ -24,5 +24,6 @@
 |18|Gaede_Felix_v1|0.6961399999994666|
 |19|Ruestemeier_Riek_v1|0.6933999999994791|
 |20|ParraAsensio_David_v1|0.689019999999499|
-|21|test_v99|0.6025999999998923|
-|22|Freyer_Lennart_v1|-1|
+|21|Lingstaedt_Linus_V3|0.6494399999996792|
+|22|test_v99|0.6025999999998923|
+|23|Freyer_Lennart_v1|-1|
