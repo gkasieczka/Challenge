@@ -27,4 +27,6 @@
 |21|ParraAsensio_David_v1|0.689019999999499|
 |22|Lingstaedt_Linus_V3|0.6494399999996792|
 |23|test_v99|0.6025999999998923|
-|24|Freyer_Lennart_v1|-1|
+|24|Lingstaedt_Linus_V1|0.6016499999998967|
+|25|Lingstaedt_Linus_V2|0.5716200000000333|
+|26|Freyer_Lennart_v1|-1|
