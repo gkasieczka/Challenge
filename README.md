@@ -36,5 +36,6 @@
 |30|Lingstaedt_Linus_V2|0.5716200000000333|
 |31|Steigmann_Dimitri_v1|0.5000000000003593|
 |32|Freyer_Lennart_v1|-1|
-|33|Ruestemeier_Riek_v2|-1|
-|34|Tettenborn_Noah_V1|-1|
+|33|Ruestemeier_Riek_V3|-1|
+|34|Ruestemeier_Riek_v2|-1|
+|35|Tettenborn_Noah_V1|-1|
