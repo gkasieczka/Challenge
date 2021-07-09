@@ -34,5 +34,5 @@
 |28|Lingstaedt_Linus_V1|0.6016499999998967|
 |29|Lingstaedt_Linus_V2|0.5716200000000333|
 |30|Steigmann_Dimitri_v1|0.5000000000003593|
-|31|Freyer_Lennart_v1|-1|
-|32|Tettenborn_Noah_V1|-1|
+|31|Tettenborn_Noah_V1|-1|
+|32|Freyer_Lennart_v1|-1|
