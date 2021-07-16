@@ -51,10 +51,10 @@
 |45|Lingstaedt_Linus_V1|0.6016499999998967|
 |46|Lingstaedt_Linus_V2|0.5716200000000333|
 |47|Steigmann_Dimitri_v1|0.5000000000003593|
-|48|Freyer_Lennart_v1|-1|
-|49|Ruestemeier_Riek_V3|-1|
+|48|Ruestemeier_Riek_v4|-1|
+|49|Fischer_Jenna_V1.npz|-1|
 |50|Ruestemeier_Riek_v2|-1|
-|51|Tettenborn_Noah_V1|-1|
-|52|Ruestemeier_Riek_v5|-1|
-|53|Fischer_Jenna_V1.npz|-1|
-|54|Ruestemeier_Riek_v4|-1|
+|51|Ruestemeier_Riek_V3|-1|
+|52|Tettenborn_Noah_V1|-1|
+|53|Ruestemeier_Riek_v5|-1|
+|54|Freyer_Lennart_v1|-1|
