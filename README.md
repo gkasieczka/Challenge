@@ -1,7 +1,7 @@
-**FINAL Challenge Accuracy Scores**
+**FINAL Challenge Agreement Scores**
 
 
 
-|Rank|Name|Accuracy|
+|Rank|Name|Agreement|
 |----|-----|---|
 |1|Baseline|[0.91322774]|
