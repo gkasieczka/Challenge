@@ -9,7 +9,6 @@
 |3|Koch_Leon_V1|[ 0.94317901]|
 |4|Michel_Hans_v1|[ 0.94288123]|
 |5|Lennart_Burmeister_V5|[ 0.94213516]|
-|6|Burmeister_Lennart_V3|[ 0.93933183]|
-|7|Heine_Robin_v1|[ 0.92515379]|
-|8|Baseline|[ 0.91322774]|
-|9|Test_V1|[ 0.90675622]|
+|6|Heine_Robin_v1|[ 0.92515379]|
+|7|Baseline|[ 0.91322774]|
+|8|Test_V1|[ 0.90675622]|
