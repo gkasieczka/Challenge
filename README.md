@@ -33,4 +33,5 @@
 |27|Reischneider_Andrej_V1|[ 0.92363006]|
 |28|Baseline|[ 0.91322774]|
 |29|Test_V1|[ 0.90675622]|
-|30|Großmann_Paul_v1|[ 0.89260095]|
+|30|Kenntner_Tim_v2|[ 0.89904451]|
+|31|Großmann_Paul_v1|[ 0.89260095]|
