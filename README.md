@@ -16,6 +16,8 @@
 |10|Krueger_Simon_v1|[ 0.94005984]|
 |11|sherma_arunaV1|[ 0.93952209]|
 |12|Bentsen_Lia_v1|[ 0.93512452]|
-|13|Heine_Robin_v1|[ 0.92515379]|
-|14|Baseline|[ 0.91322774]|
-|15|Test_V1|[ 0.90675622]|
+|13|Heine_Robin_v3|[ 0.93392736]|
+|14|Heine_Robin_v1|[ 0.92515379]|
+|15|Baseline|[ 0.91322774]|
+|16|Test_V1|[ 0.90675622]|
+|17|Großmann_Paul_v1|[ 0.89260095]|
