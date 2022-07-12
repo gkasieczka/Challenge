@@ -26,11 +26,11 @@
 |20|Michaelsen_JanMalte_v3|[ 0.94185799]|
 |21|DelaCruzGonzalez_Roberto_v1|[ 0.94167733]|
 |22|Schacht_TillV1|[ 0.94144714]|
-|23|Beller_Jan-Niclas_v1|[ 0.94049853]|
-|24|Sherma_ArunaV2|[ 0.94049102]|
-|25|Krueger_Simon_v1|[ 0.94005984]|
-|26|Frank_Hannes_V2|[ 0.93999583]|
-|27|Koch_Leon_V4|[ 0.93993527]|
+|23|Frank_Hannes_V5|[ 0.94053584]|
+|24|Beller_Jan-Niclas_v1|[ 0.94049853]|
+|25|Sherma_ArunaV2|[ 0.94049102]|
+|26|Krueger_Simon_v1|[ 0.94005984]|
+|27|Frank_Hannes_V2|[ 0.93999583]|
 |28|Frank_Hannes_V1|[ 0.93975353]|
 |29|Bentsen_Lia_v1|[ 0.93512452]|
 |30|Reischneider_Andrej_V2|[ 0.93349874]|
@@ -42,3 +42,4 @@
 |36|Test_V1|[ 0.90675622]|
 |37|Lürßen_Bengt_V2|[ 0.90608025]|
 |38|Großmann_Paul_v1|[ 0.89260095]|
+|39|Frank_Hannes_V6|-1|
