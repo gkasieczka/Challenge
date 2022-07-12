@@ -17,11 +17,11 @@
 |11|Michel_Hans_v1|[ 0.94288123]|
 |12|Lennart_Burmeister_V5|[ 0.94213516]|
 |13|Michaelsen_JanMalte_v1|[ 0.94208449]|
-|14|DelaCruzGonzalez_Roberto_v1|[ 0.94167733]|
-|15|Beller_Jan-Niclas_v1|[ 0.94049853]|
-|16|Sherma_ArunaV2|[ 0.94049102]|
-|17|Krueger_Simon_v1|[ 0.94005984]|
-|18|Heine_Robin_v3|[ 0.93848145]|
+|14|Michaelsen_JanMalte_v3|[ 0.94185799]|
+|15|DelaCruzGonzalez_Roberto_v1|[ 0.94167733]|
+|16|Beller_Jan-Niclas_v1|[ 0.94049853]|
+|17|Sherma_ArunaV2|[ 0.94049102]|
+|18|Krueger_Simon_v1|[ 0.94005984]|
 |19|Bentsen_Lia_v1|[ 0.93512452]|
 |20|Reischneider_Andrej_V2|[ 0.93349874]|
 |21|Heine_Robin_v1|[ 0.92515379]|
