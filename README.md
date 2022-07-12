@@ -18,6 +18,7 @@
 |12|Bentsen_Lia_v1|[ 0.93512452]|
 |13|Heine_Robin_v3|[ 0.93392736]|
 |14|Heine_Robin_v1|[ 0.92515379]|
-|15|Baseline|[ 0.91322774]|
-|16|Test_V1|[ 0.90675622]|
-|17|Großmann_Paul_v1|[ 0.89260095]|
+|15|Reischneider_Andrej_V1|[ 0.92363006]|
+|16|Baseline|[ 0.91322774]|
+|17|Test_V1|[ 0.90675622]|
+|18|Großmann_Paul_v1|[ 0.89260095]|
