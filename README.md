@@ -47,6 +47,7 @@
 |41|Lürßen_Bengt_V1|[ 0.90715575]|
 |42|Test_V1|[ 0.90675622]|
 |43|Lürßen_Bengt_V2|[ 0.90608025]|
-|44|Bauer_Jonas_v1.zip|[ 0.90117979]|
-|45|Großmann_Paul_v1|[ 0.89260095]|
-|46|Großmann_Paul_v4|[ 0.89106464]|
+|44|Mössinger_Luca_V2|[ 0.90210342]|
+|45|Bauer_Jonas_v1.zip|[ 0.90117979]|
+|46|Großmann_Paul_v1|[ 0.89260095]|
+|47|Großmann_Paul_v4|[ 0.89106464]|
