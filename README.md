@@ -48,3 +48,4 @@
 |42|Lürßen_Bengt_V2|[ 0.90608025]|
 |43|Bauer_Jonas_v1.zip|[ 0.90117979]|
 |44|Großmann_Paul_v1|[ 0.89260095]|
+|45|Großmann_Paul_v4|[ 0.89106464]|
