@@ -39,9 +39,10 @@
 |33|Großmann_Paul_v2|[ 0.92531955]|
 |34|Heine_Robin_v1|[ 0.92515379]|
 |35|Reischneider_Andrej_V1|[ 0.92363006]|
-|36|Baseline|[ 0.91322774]|
-|37|Lürßen_Bengt_V1|[ 0.90715575]|
-|38|Test_V1|[ 0.90675622]|
-|39|Lürßen_Bengt_V2|[ 0.90608025]|
-|40|Bauer_Jonas_v1.zip|[ 0.90117979]|
-|41|Großmann_Paul_v1|[ 0.89260095]|
+|36|Großmann_Paul_v3|[ 0.92012209]|
+|37|Baseline|[ 0.91322774]|
+|38|Lürßen_Bengt_V1|[ 0.90715575]|
+|39|Test_V1|[ 0.90675622]|
+|40|Lürßen_Bengt_V2|[ 0.90608025]|
+|41|Bauer_Jonas_v1.zip|[ 0.90117979]|
+|42|Großmann_Paul_v1|[ 0.89260095]|
