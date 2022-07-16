@@ -61,9 +61,9 @@
 |55|Reischneider_Andrej_V1|[ 0.92363006]|
 |56|Großmann_Paul_v3|[ 0.92012209]|
 |57|Andrej_Reischneider_V5|[ 0.91983986]|
-|58|Baseline|[ 0.91322774]|
-|59|Daraei_Dariush_V1|[ 0.9103868]|
-|60|Großmann_Paul_v5|[ 0.90991533]|
+|58|Großmann_Paul_v5|[ 0.9178201]|
+|59|Baseline|[ 0.91322774]|
+|60|Daraei_Dariush_V1|[ 0.9103868]|
 |61|Daraei_Dariush_V2|[ 0.9083873]|
 |62|Lürßen_Bengt_V1|[ 0.90715575]|
 |63|Test_V1|[ 0.90675622]|
