@@ -72,3 +72,4 @@
 |66|Bauer_Jonas_v1.zip|[ 0.90117979]|
 |67|Großmann_Paul_v1|[ 0.89260095]|
 |68|Großmann_Paul_v4|[ 0.89106464]|
+|69|Manai_Mouhamed-Omar_V12|[ 0.88986057]|
