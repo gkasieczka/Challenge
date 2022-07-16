@@ -60,7 +60,7 @@
 |54|Großmann_Paul_v2|[ 0.92531955]|
 |55|Heine_Robin_v1|[ 0.92515379]|
 |56|Reischneider_Andrej_V1|[ 0.92363006]|
-|57|Großmann_Paul_v6|[ 0.92261446]|
+|57|Großmann_Paul_v6|[ 0.92337871]|
 |58|Großmann_Paul_v3|[ 0.92012209]|
 |59|Andrej_Reischneider_V5|[ 0.91983986]|
 |60|Baseline|[ 0.91322774]|
