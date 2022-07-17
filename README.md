@@ -39,11 +39,11 @@
 |33|Beller_Jan-Niclas_v1|[ 0.94049853]|
 |34|Sherma_ArunaV2|[ 0.94049102]|
 |35|Newiger_Jan_V5|[ 0.94028884]|
-|36|Krueger_Simon_v1|[ 0.94005984]|
-|37|Emmrich_Lars_V7|[ 0.94005841]|
-|38|Frank_Hannes_V2|[ 0.93999583]|
-|39|Großmann_Paul_v8|[ 0.9399842]|
-|40|Großmann_Paul_v9|[ 0.9399175]|
+|36|Großmann_Paul_v9|[ 0.94019794]|
+|37|Krueger_Simon_v1|[ 0.94005984]|
+|38|Emmrich_Lars_V7|[ 0.94005841]|
+|39|Frank_Hannes_V2|[ 0.93999583]|
+|40|Großmann_Paul_v8|[ 0.9399842]|
 |41|Lamaack_Jonas_V4|[ 0.93985713]|
 |42|Frank_Hannes_V1|[ 0.93975353]|
 |43|Großmann_Paul_v7|[ 0.93946624]|
