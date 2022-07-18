@@ -91,6 +91,7 @@
 |85|Lürßen_Bengt_V2|[ 0.90608025]|
 |86|Mössinger_Luca_V2|[ 0.90210342]|
 |87|Bauer_Jonas_v1.zip|[ 0.90117979]|
-|88|Großmann_Paul_v1|[ 0.89260095]|
-|89|Großmann_Paul_v4|[ 0.89106464]|
-|90|Richter_Julian_V1|[ 0.86832029]|
+|88|Wiedenmann_Bjarne_v2|[ 0.90056789]|
+|89|Großmann_Paul_v1|[ 0.89260095]|
+|90|Großmann_Paul_v4|[ 0.89106464]|
+|91|Richter_Julian_V1|[ 0.86832029]|
