@@ -93,6 +93,7 @@
 |87|Mössinger_Luca_V2|[ 0.90210342]|
 |88|Bauer_Jonas_v1.zip|[ 0.90117979]|
 |89|Wiedenmann_Bjarne_v2|[ 0.90056789]|
-|90|Großmann_Paul_v1|[ 0.89260095]|
-|91|Großmann_Paul_v4|[ 0.89106464]|
-|92|Richter_Julian_V1|[ 0.86832029]|
+|90|Wiedenmann_Bjarne_v3|[ 0.89421779]|
+|91|Großmann_Paul_v1|[ 0.89260095]|
+|92|Großmann_Paul_v4|[ 0.89106464]|
+|93|Richter_Julian_V1|[ 0.86832029]|
