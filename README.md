@@ -112,4 +112,3 @@
 |106|Großmann_Paul_v1|[ 0.89260095]|
 |107|Großmann_Paul_v4|[ 0.89106464]|
 |108|Richter_Julian_V1|[ 0.86832029]|
-|109|Mössinger_Luca_V4|[-28.3698349]|
