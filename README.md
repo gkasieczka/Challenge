@@ -81,7 +81,7 @@
 |75|Hahn_Aljoscha_V4|[ 0.9388653]|
 |76|Hahn_Aljoscha_V3|[ 0.93864423]|
 |77|Bauer_Jonas_v2|[ 0.93844777]|
-|78|Test_L_V21|[ 0.93836218]|
+|78|Mössinger_Luca_V7|[ 0.93836218]|
 |79|Ole_Senz_v1|[ 0.93826413]|
 |80|Ole_Senz_v2|[ 0.93815774]|
 |81|Newiger_Jan_V3|[ 0.93806809]|
