@@ -91,11 +91,11 @@
 |85|Newiger_Jan_V2|[ 0.93688166]|
 |86|Lamaack_Jonas_V6|[ 0.93686104]|
 |87|Kromm_Nicolas_V2|[ 0.93678594]|
-|88|Test_L_V22|[ 0.93666953]|
-|89|Emmrich_Lars_V4|[ 0.93645489]|
-|90|Mössinger_Luca_V6|[ 0.93615842]|
-|91|Reischneider_Andrej_V3|[ 0.93560314]|
-|92|Newiger_Jan_V1|[ 0.93540442]|
+|88|Emmrich_Lars_V4|[ 0.93645489]|
+|89|Mössinger_Luca_V6|[ 0.93615842]|
+|90|Reischneider_Andrej_V3|[ 0.93560314]|
+|91|Newiger_Jan_V1|[ 0.93540442]|
+|92|Test_L_V22|[ 0.93536663]|
 |93|Gerber_Finn_v2.zip|[ 0.93521458]|
 |94|Emmrich_Lars_V3|[ 0.93513584]|
 |95|Bentsen_Lia_v1|[ 0.93512452]|
